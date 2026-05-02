@@ -121,5 +121,5 @@ SimulateurCaisse
 
 ## 👨‍💻 Auteur
 
-Nom : [Votre nom]
+Nom : Omar Abdelkader
 TP Kafka — Déploiement mono-machine
